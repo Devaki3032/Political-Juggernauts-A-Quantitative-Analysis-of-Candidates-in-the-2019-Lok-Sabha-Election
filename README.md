@@ -7,4 +7,4 @@ Story Public Link - https://public.tableau.com/app/profile/devaki.k/viz/Devaki_L
 
 Video Demonstration Link - https://youtu.be/i9VjWW7AyOU?si=yyvGVqcIMKLwRD7e
 
-Project Report Link-  https://github.com/Devaki3032/Political-Juggernauts-A-Quantitative-Analysis-of-Candidates-in-the-2019-Lok-Sabha-Election/tree/main
+Project Report Link- https://drive.google.com/file/d/1uUk7TnSzHpwXyRVM1LRzpcrbXmglIgwC/view?ts=652e6269 
